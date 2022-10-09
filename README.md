@@ -1,1 +1,1 @@
-This repository contains quiz codes in for my Intership at Hamoye OneSchool.
+This repository contains codes to quizzes in my Intership at Hamoye OneSchool.
